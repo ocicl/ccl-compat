@@ -1,0 +1,9 @@
+* ccl-compat
+
+CCL compatibility module for Common Lisp
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/phoe/ccl-compat.git |
+| commit  | 9d1b1ab                                    |
+| systems | ccl-compat                                 |
+|---------+--------------------------------------------|
